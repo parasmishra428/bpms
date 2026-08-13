@@ -1,3 +1,2 @@
 version 1 
-i want to show student the pull request
 make student clear about branching example
